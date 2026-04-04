@@ -25,9 +25,9 @@ finance-backend/
 │   ├── middleware/
 │   ├── services/
 │   └── config/
-│── .env
-│── package.json
-│── server.js
+│── .env/
+│── package.json/
+│── server.js/
 
 ## Role-Based Access Control
 
