@@ -17,17 +17,17 @@
 - MongoDB (Mongoose)
 
 ## Folder Structure
-finance-backend/
-│── src/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   ├── services/
-│   └── config/
-│── .env/
-│── package.json/
-│── server.js/
+finance-backend\
+│── src\
+│   ├── controllers\
+│   ├── models\
+│   ├── routes\
+│   ├── middleware\
+│   ├── services\
+│   └── config\
+│── .env\
+│── package.json\
+│── server.js\
 
 ## Role-Based Access Control
 
