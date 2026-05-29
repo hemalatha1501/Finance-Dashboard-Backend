@@ -1,5 +1,8 @@
 # Finance Backend System
 
+## Problem Statement
+Managing financial transactions across multiple users and roles can become difficult without proper access control and analytics. This project provides a scalable backend system that enables secure transaction management, role-based permissions, and real-time financial insights.
+
 ## Overview
  A scalable backend system built using Node.js and MongoDB to manage financial transactions with secure role-based access control and real-time analytics.
 
@@ -15,6 +18,17 @@
 - Node.js
 - Express.js
 - MongoDB (Mongoose)
+
+## Architecture Diagram
+Client
+   ↓
+Express API
+   ↓
+Controllers
+   ↓
+Services
+   ↓
+MongoDB
 
 ## Folder Structure
 finance-backend\
