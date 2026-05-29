@@ -20,14 +20,14 @@ Managing financial transactions across multiple users and roles can become diffi
 - MongoDB (Mongoose)
 
 ## Architecture Diagram
-Client
-   ↓
-Express API
-   ↓
-Controllers
-   ↓
-Services
-   ↓
+Client\
+   ↓\
+Express API\
+   ↓\
+Controllers\
+   ↓\
+Services\
+   ↓\
 MongoDB
 
 ## Folder Structure
